@@ -5,7 +5,7 @@ KDA
 <tbody>
 <tr class="odd">
 <td>Работу выполнил студент группы БИСО-01-21</td>
-<td style="text-align: right;">Кабанов Даниил Артурович</td>
+<td style="text-align: right;">Васильев Иван Сергеевич</td>
 </tr>
 <tr class="even">
 <td></td>
