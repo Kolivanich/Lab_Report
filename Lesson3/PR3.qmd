@@ -1,0 +1,38 @@
+---
+title: "lesson1"
+author: "KDA"
+format: html
+editor: visual
+---
+
+# **Практическое занятие № 3/4ч.**
+
+**Разработка мобильных компонент анализа безопасности информационно-аналитических систем**
+
+## 1.5 Задание
+
+Создали свой intentapp
+
+![](images/clipboard-32405263.png)
+
+Зайдем в manifest и проверим, что создалась вторая Activity
+
+![](images/clipboard-1326478414.png)
+
+![](images/clipboard-3683668700.png)
+
+## 1.6 Обмен данными
+
+![](images/clipboard-1325035476.png)
+
+## 1.7 Задание
+
+![](images/clipboard-2798064589.png)
+
+![](images/clipboard-3278539922.png)
+
+## Контрольное задание 4.1
+
+Изучить атрибуты макетов «ViewGroup» и для каждого типа создать свой Layout
+
+### LinearLayout
